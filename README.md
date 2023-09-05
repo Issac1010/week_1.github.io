@@ -1,4 +1,4 @@
-# week_1
+# Week 1
 
 Our group had a discussion with our mentor and determined that the research direction for our final project would be amphibious robotics. Prof. Du, Hongwang asked us to understand the working principle of the robot, collect various data about the amphibious robot and integrate them.
 
